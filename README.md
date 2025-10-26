@@ -2,7 +2,7 @@
 Predicting optimal e-commerce product prices using textual features and LightGBM regression.
 
 **Team Nxtgen**  
-Harine K. S | Dharshini S | Bhavishya Priyadarshini V | Aboorva J  
+Harine K S | Dharshini S | Bhavishya Priyadarshini V | Aboorva J  
 
 ## 🧩 Problem Overview
 Predict optimal product prices for an e-commerce dataset using product text and image links.  
